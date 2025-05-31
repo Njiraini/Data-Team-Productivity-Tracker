@@ -1,0 +1,7 @@
+Week,Team Member,Velocity (Story Points),Delivery Rate (%),Quality Score (%),Utilization (%),Comments
+2025-05-05,Alice,30,100,98,85,"Completed data migration pipeline"
+2025-05-05,Bob,25,90,95,80,"Ongoing dashboard refinement"
+2025-05-05,Carol,28,95,92,82,"Resolved API bugs"
+2025-05-12,Alice,35,100,100,88,"Delivered anomaly detection model"
+2025-05-12,Bob,20,85,90,76,"Worked on internal QA automation"
+2025-05-12,Carol,30,100,97,85,"Finished metadata tracking feature"
